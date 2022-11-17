@@ -3,12 +3,9 @@
 - 👀 I’m interested in bridging the gap between developers and operators through business/process/culture/technology.
 - 💞️ I’m looking to collaborate on interesting podcasts, conferences, etc.
 - 📫 You can reach me through the usual means, links at https://www.bryanross.me/.
+- <a rel="me" href="https://hachyderm.io/@bryanross">https://hachyderm.io/@bryanross</a>
 
 <!---
 bryanrossUK/bryanrossUK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
-
-<!---
-<a rel="me" href="https://hachyderm.io/@bryanross">https://hachyderm.io/@bryanross</a>
 --->
