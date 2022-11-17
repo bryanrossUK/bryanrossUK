@@ -10,5 +10,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <!---
-<link rel="me" href="https://hachyderm.io/@bryanross">
+<a rel="me" href="https://hachyderm.io/@bryanross">https://hachyderm.io/@bryanross</a>
 --->
