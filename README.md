@@ -2,4 +2,4 @@
 - 💼 I'm an Executive Advisor for VMware Tanzu, helping businesses get value from IT.
 - 👀 I’m interested in bridging the gap between developers and operators through business/process/culture/technology.
 - 💞️ I’m looking to collaborate on interesting podcasts, conferences, etc.
-- 📫 You can reach me through the usual means, links at https://www.bryanross.me/.
+- 📫 You can reach me through the usual means, links at https://bryanross.me/
